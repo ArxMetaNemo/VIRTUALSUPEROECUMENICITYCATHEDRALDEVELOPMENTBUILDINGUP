@@ -7,8 +7,8 @@
             <edge COLOR="#948ce3"/>
             <font NAME="Helvetica" SIZE="50"/>
         </node>
-        <node TEXT="эта диаграмма ультимативно ультраметаэволюционирует в реальном времени" FOLDED="false" POSITION="right" ID="864b6ca03c2200f1cb26861a">
-            <edge COLOR="#9188e1"/>
+        <node TEXT="эта диаграмма ультимативно ультраметаэволюционирует в реальном времени; это вид Мефа Аганна из Дальнего Внеземелья Психокосмоса" FOLDED="false" POSITION="right" ID="864b6ca03c2200f1cb26861a">
+            <edge COLOR="#efa670"/>
             <font NAME="Helvetica" SIZE="50"/>
         </node>
         <node TEXT="https://github.com/LIFEDAO" FOLDED="false" POSITION="left" ID="5760d56d2ebed08f58f22303">
@@ -233,6 +233,10 @@ http://eeloka.ru/shared/svetliachki/  http://squeak.org/" FOLDED="false" POSITIO
         <node TEXT="libservershardwaresources" FOLDED="false" POSITION="left" ID="449e29d1770f111741ef468e">
             <edge COLOR="#efa670"/>
             <font NAME="Helvetica" SIZE="15"/>
+            <node TEXT="(?) vercel / now.sh (?)" FOLDED="false" POSITION="left" ID="fd4411b6cd2a88542efdafc2">
+                <edge COLOR="#eea26d"/>
+                <font NAME="Helvetica" SIZE="13"/>
+            </node>
             <node TEXT="heroku" FOLDED="false" POSITION="left" ID="6eee4425ebb88d98a5527d31">
                 <edge COLOR="#ee9f69"/>
                 <font NAME="Helvetica" SIZE="13"/>
@@ -273,6 +277,10 @@ http://eeloka.ru/shared/svetliachki/  http://squeak.org/" FOLDED="false" POSITIO
                 </node>
             </node>
         </node>
+        <node TEXT="(?) https://zeroc.com/ (?)" FOLDED="false" POSITION="left" ID="a3b5f2e0c58a66024b22095e">
+            <edge COLOR="#67d7c4"/>
+            <font NAME="Helvetica" SIZE="15"/>
+        </node>
         <node TEXT="ГОЛУБАЯ ЛУНА, ТО ЕСТЬ МЕЧТА, ИДИОТА, ТОЧНЕЕ ПРОГРАММА-МИНИМУМ В ЛИСТАХ СЕЙ НОДЫ, СПИСОК НОД ПРОГРАММЫ МАКСИМУМ В МИНИМАЛЬНОМ ВАРИАНТЕ ЗАКОНЧЕННОЙ ЦЕЛИ, CODENAME MILESTONE_CRYPTOVR
 
  ![dreamstimemaximum_55508109](attached://8c5c44db355d154118cb1fccda1453ce 150x120) 
@@ -280,17 +288,53 @@ http://eeloka.ru/shared/svetliachki/  http://squeak.org/" FOLDED="false" POSITIO
 " FOLDED="false" POSITION="left" ID="0cfe5046d8d3405a679fceae">
             <edge COLOR="#67d7c4"/>
             <font NAME="Helvetica" SIZE="15"/>
+            <node TEXT="TBD стиль всецветной луны был бы смешнее" FOLDED="false" POSITION="left" ID="f849c8208fb78201cab9d07a">
+                <edge COLOR="#e096e9"/>
+                <font NAME="Helvetica" SIZE="13"/>
+            </node>
             <node TEXT="Image ID: 55508109" FOLDED="false" POSITION="left" ID="c240b78487c062a972e9a904">
                 <edge COLOR="#5dd5bf"/>
                 <font NAME="Helvetica" SIZE="13"/>
-            </node>
-            <node TEXT="Copyright Geforzo | Dreamstime.com" FOLDED="false" POSITION="left" ID="78ee5ff411b5f42500d7ed69">
-                <edge COLOR="#60d8c1"/>
-                <font NAME="Helvetica" SIZE="13"/>
-            </node>
-            <node TEXT="https://www.dreamstime.com/geforzo_info" FOLDED="false" POSITION="left" ID="b9d53d897eb8b7db713942a5">
-                <edge COLOR="#71d8c5"/>
-                <font NAME="Helvetica" SIZE="13"/>
+                <node TEXT="TBD performing these legal tasks EIR" FOLDED="false" POSITION="left" ID="bd2e283595ff13bcfe483671">
+                    <edge COLOR="#59d3bb"/>
+                    <font NAME="Helvetica" SIZE="12"/>
+                    <node TEXT="Credit information for each image in this collection is listed below. Simply match the image ID numbers below to the ID number in the image file name to credit the proper image." FOLDED="false" POSITION="left" ID="c2b9c2315d1b1060b8720064">
+                        <edge COLOR="#5ad0b7"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="More about usage rights can be found here:" FOLDED="false" POSITION="left" ID="a75c24f66c07a808773b5869">
+                        <edge COLOR="#51cfb4"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="https://www.dreamstime.com/terms#using" FOLDED="false" POSITION="left" ID="616e91b2a643a9067aefdfda">
+                        <edge COLOR="#4fd3b7"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="***" FOLDED="false" POSITION="left" ID="e0efbad8c7a0d8c9d753766f">
+                        <edge COLOR="#5ad0b7"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="Image ID: 55508109" FOLDED="false" POSITION="left" ID="0fa8680e80e416e9fb509f1b">
+                        <edge COLOR="#53d1b6"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="Copyright Geforzo | Dreamstime.com" FOLDED="false" POSITION="left" ID="f116be7ae2bac08dc44fef45">
+                        <edge COLOR="#54d4b9"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="https://www.dreamstime.com/geforzo_info" FOLDED="false" POSITION="left" ID="1973ba27123c40128f4c56ac">
+                        <edge COLOR="#54d2b7"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="Fully formatted HTML:" FOLDED="false" POSITION="left" ID="1008fa040846d4b60422a792">
+                        <edge COLOR="#60d8be"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                    <node TEXT="Copyright &lt;a href=&quot;https://www.dreamstime.com/geforzo_info&quot;&gt;Geforzo&lt;/a&gt; | &lt;a href=&quot;https://www.dreamstime.com/&quot; title=&quot;Stock Photos&quot;&gt;Dreamstime.com&lt;/a&gt;" FOLDED="false" POSITION="left" ID="6771b255440e0e8c348e867f">
+                        <edge COLOR="#5cd6bc"/>
+                        <font NAME="Helvetica" SIZE="12"/>
+                    </node>
+                </node>
             </node>
             <node TEXT="так вот программа-минимум, список нод" FOLDED="false" POSITION="left" ID="9ed400ebfa2cc58a47f9dcc5">
                 <edge COLOR="#62d8c2"/>
@@ -319,20 +363,20 @@ http://eeloka.ru/shared/svetliachki/  http://squeak.org/" FOLDED="false" POSITIO
                     <edge COLOR="#5cd6bd"/>
                     <font NAME="Helvetica" SIZE="12"/>
                 </node>
-                <node TEXT="lightlab.tranoo.com" FOLDED="false" POSITION="left" ID="c67937e572f14ee29880a458">
+                <node TEXT="LightLabIncremental.tranoo.com" FOLDED="false" POSITION="left" ID="c67937e572f14ee29880a458">
                     <edge COLOR="#65d9c1"/>
                     <font NAME="Helvetica" SIZE="12"/>
-                    <node TEXT="CryptoAscensionVR.tranoo.com" FOLDED="false" POSITION="left" ID="3cd822757e4c02cd30e96e25">
+                    <node TEXT="CryptoAscensionVR.LightLabIncremental.tranoo.com" FOLDED="false" POSITION="left" ID="3cd822757e4c02cd30e96e25">
                         <edge COLOR="#63d7bd"/>
                         <font NAME="Helvetica" SIZE="10"/>
                         <node TEXT="one .eth addr i hope" FOLDED="false" POSITION="left" ID="3f6e594c6daf7e50aa962233">
                             <edge COLOR="#9ed56b"/>
                             <font NAME="Helvetica" SIZE="12"/>
                         </node>
-                        <node TEXT="commerce.CryptoAscensionVR.tranoo.com" FOLDED="false" POSITION="left" ID="0fea6e0f96ac5fa1ce4feb2c">
+                        <node TEXT="commerce.CryptoAscensionVR.LightLabIncremental.tranoo.com" FOLDED="false" POSITION="left" ID="0fea6e0f96ac5fa1ce4feb2c">
                             <edge COLOR="#58d6b8"/>
                             <font NAME="Helvetica" SIZE="12"/>
-                            <node TEXT="eth.js metamask and peakd hive and opensea and maybe rarible at commerce.CryptoAscensionVR.tranoo.com" FOLDED="false" POSITION="left" ID="1ec0dc197bdaab565e73619a">
+                            <node TEXT="eth.js metamask and peakd hive and opensea and maybe rarible at commerce.CryptoAscensionVR.LightLabIncremental.tranoo.com" FOLDED="false" POSITION="left" ID="1ec0dc197bdaab565e73619a">
                                 <edge COLOR="#4ed6b4"/>
                                 <font NAME="Helvetica" SIZE="12"/>
                             </node>
